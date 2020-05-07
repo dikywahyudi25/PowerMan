@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - jebakan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2113085985
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2580845725
+    locked: 0
+  - name: Player
+    uniqueID: 2183497957
+    locked: 0
+  - name: jebakan1
+    uniqueID: 3965862753
+    locked: 0
+  - name: dolar
+    uniqueID: 3943904551
+    locked: 0
+  - name: jebakan2
+    uniqueID: 2608285529
+    locked: 0
+  - name: jebakan3
+    uniqueID: 3191653473
+    locked: 0
+  - name: score
+    uniqueID: 3854394583
+    locked: 0
+  - name: reset
+    uniqueID: 1386809281
+    locked: 0
+  - name: portal
+    uniqueID: 1068532673
+    locked: 0
+  - name: rumah
+    uniqueID: 4062728283
+    locked: 0
+  - name: New Layer
+    uniqueID: 3913570689
+    locked: 0
+  - name: Tilemap1
+    uniqueID: 1413117939
+    locked: 0

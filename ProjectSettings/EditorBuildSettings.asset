@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 39c016b3c599d984eaa08af9249a46bb
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 7bbec19e97f3ccb448b95a9620e66ce4
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7d338d7fe73df9a4ea5711e2b52d3874
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ca3687100983ec74abdadfb6ac41558c
+  - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: 6e82aadba235a2e4ea170da64544d5d3
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 741788cf18949d140ac12d6e2522f9e2
+  - enabled: 1
+    path: Assets/Scenes/GameOver3.unity
+    guid: e3e95413f321e66478e9b7b4ca3773ea
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 782651197b8783245933187c9d976116
+  - enabled: 1
+    path: Assets/Scenes/GameOver4.unity
+    guid: 4e5c570a25597074688ef30ca9483644
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 35e1ab86cd83a564891ece50135884a8
+  - enabled: 1
+    path: Assets/Scenes/GameOver5.unity
+    guid: 0a8d7be897d3e164786e4211309fd5fe
+  - enabled: 1
+    path: Assets/Scenes/Succes.unity
+    guid: db507be74f5eebe4e99f66a48faa5751
+  - enabled: 1
+    path: Assets/Scenes/NextLevel.unity
+    guid: 7f136bf47a692d7429de8aa9c8e51483
+  - enabled: 1
+    path: Assets/Scenes/NextLevel 1.unity
+    guid: 19ad0c94215cb6c4ca64704363ba68d0
+  - enabled: 1
+    path: Assets/Scenes/NextLevel 2.unity
+    guid: b7b57be7afbd5104aa3b8a30abc9e79a
+  - enabled: 1
+    path: Assets/Scenes/NextLevel 3.unity
+    guid: 54bda95339b823944995ed26ac65f65b
+  m_configObjects: {}
